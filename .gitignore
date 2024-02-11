@@ -2,3 +2,5 @@
 venv
 # Ignorer requirements.txt
 requirements.txt
+# Ignorer .git
+.git
